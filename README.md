@@ -1,1 +1,1 @@
-# ismagilov
+-finput-charset=utf-8 -fexec-charset=cp866
